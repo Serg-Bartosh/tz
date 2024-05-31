@@ -12,7 +12,8 @@ Opensource scraper
 
 4) Paste ```pip install -r requirements.txt``` in ur terminal 
 
-##Project structure
+Project structure
+===========
 1) dumps folder, where dumps will be saved in dump-date- format
 2) Models where the model of our table is described
 3) ```find_car_info.py``` , where the functions ```fetch_car_data_from_page()```, ```valid_car_number()```, ```find_phone_number()```, ```fetch_car_data_from_site()``` are located
