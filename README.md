@@ -2,10 +2,10 @@
 
 Opensource scraper
 
-#Instructions for use
+## Instructions for use
 
 1) Download the project
 
-2)Create a postgres database
+2) Create a postgres database
 
-3)Fill out the .env file
+3) Fill out the .env file
